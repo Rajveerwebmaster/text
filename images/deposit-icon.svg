@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8229" data-name="Rectangle 8229" width="40" height="40" transform="translate(-0.203 0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="deposit-icon" transform="translate(0.203 0)" clip-path="url(#clip-path)">
+    <g id="Deposit" transform="translate(0 3.537)">
+      <path id="Path_149" data-name="Path 149" d="M40.767,29.905a1.974,1.974,0,0,0-2.5-1.209l-5.426,1.678c-1.374,1.252-1.9.93-11.966.93a.87.87,0,0,1,0-1.739c10.435,0,10.079.2,10.844-.565a1.783,1.783,0,0,0,.461-1.174,1.739,1.739,0,0,0-1.739-1.739h-9.3c-1.209,0-2.217-1.739-5.739-1.739H9.566V33.41l1.122.635a24.157,24.157,0,0,0,21.2,1.435l7.826-3.157a1.965,1.965,0,0,0,1.052-2.417Z" transform="translate(-0.87 -4.348)" fill="#fff"/>
+      <path id="Path_150" data-name="Path 150" d="M.87,35.653H7.826V22.609H.87Zm2.678-3.809a.87.87,0,1,1,.32,1.054A.87.87,0,0,1,3.548,31.844Z" transform="translate(-0.87 -4.348)" fill="#fff"/>
+      <path id="Path_151" data-name="Path 151" d="M26.957,21.74a8.7,8.7,0,1,0-8.7-8.7,8.7,8.7,0,0,0,8.7,8.7Zm.87-7.826H26.088a2.609,2.609,0,1,1,0-5.218v-.87a.87.87,0,1,1,1.739,0V8.7h1.739a.87.87,0,1,1,0,1.739H26.088a.87.87,0,1,0,0,1.739h1.739a2.609,2.609,0,1,1,0,5.218v.87a.87.87,0,0,1-1.739,0v-.87H24.349a.87.87,0,0,1,0-1.739h3.478a.87.87,0,0,0,0-1.739Z" transform="translate(-0.87 -4.348)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

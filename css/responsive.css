@@ -1,0 +1,647 @@
+
+@media screen and (max-width: 1450px){
+   
+}
+
+@media screen and (max-width: 1199px){
+
+    .thm-but {
+        padding: 8px 25px;
+        font-size: 14px;
+        margin-left: 0px;
+        width: 128px;
+    }
+
+    .footer-logo {
+        max-width: 230px;
+    }
+
+    .celebrities-wrapper {
+        margin-top: 40px;
+    }
+
+    .service-take-sec {
+        margin-top: 40px;
+    }
+
+    .service-wrapper {
+        margin-top: -60px;
+    }
+
+    .celebrities-heading h5 {
+        font-size: 18px;
+        line-height: normal;
+    }
+
+    .celebrities-heading p {
+        font-size: 16px;
+        line-height: normal;
+    }
+
+    .winner-details .celebrities-heading h5 {
+        font-size: 20px;
+    }
+
+    .celebrities-heading p {
+        font-size: 13px;
+    }
+   
+    .thm-heading h3 {
+        font-size: 36px;
+    }
+    
+    .winner-icon {
+        width: 60px;
+        height: 60px;
+        margin-right: 10px;
+    }
+
+    .thm-bor-but {
+        margin-right: 10px;
+    }
+    .navbar-nav li a {
+        font-size: 14px;
+    }
+    .navbar-nav li {
+        margin-right: 4px;
+    }
+    .logo-sec img {
+        max-width: 240px;
+    }
+    .service-sec {
+        border: 2px solid #fff;
+        border-radius: 15px;
+        padding: 30px 40px;
+    }
+    .service-con h2 {
+        font-size: 20px;
+        margin-left: 8px;
+    }
+
+    .celebrities-heading {
+        margin-top: 10px;
+        margin-left: 8px;
+    }
+
+    .user-icon img{
+        width: 90px;
+        height: 90px;
+        margin-right: 10px;
+    }
+}
+
+@media screen and (max-width: 1024px){
+   
+}
+
+@media screen and (max-width: 991px){
+
+    .login-account .login-form {
+        font-size: 28px;
+    }
+
+    .whatsapp-con p {
+        font-size: 16px;
+    }
+
+    .whatapp-icon img{
+        width: 84%;
+    }
+
+    .whatsapp-con {
+        padding: 14px 24px 14px 24px;
+        margin-left:-40px;
+    }
+
+    .header-menu-sec {
+        position: absolute;
+        top: 80px;
+        left: auto;
+        right: 10px;
+        background-color: var(--primary-color);
+        padding: 10px 20px;
+        z-index: 99999;
+        border-radius: 10px;
+    }
+    .navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+        color: #000;
+      }
+
+    .footer-list h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .footer-list li {
+        list-style: none;
+        margin: 10px 0px;
+    }
+
+    .header-toggle-sec {
+        flex-direction: row-reverse;
+    }
+
+    .footer-wrapper {
+        margin-top: 30px;
+        padding: 30px 0px;
+    }
+
+    .celebrities-wrapper {
+        margin-top: 30px;
+    }
+
+    .sport-name h6 {
+        font-size: 18px;
+        margin-left: 12px;
+    }
+
+    .sport-img {
+        width: 90px;
+        height: 90px;
+    }
+
+    .user-wrapper {
+        margin-top: 30px;
+    }
+
+    
+    .service-take-sec {
+        margin-top: 20px;
+    }
+
+    
+    .service-take-sec {
+        margin-top: 30px;
+    }
+
+    .winner-sec {
+        margin-top: 20px;
+    }
+    .user-icon{
+       display: none;
+    }
+
+    .celebrities-sec {
+        margin-top: 26px;
+    }
+
+    .celebrities-heading h5 {
+        font-size: 18px;
+        line-height:normal;
+    }
+    .service-wrapper {
+        margin-top: -40px;
+    }
+    
+    .thm-heading h3 {
+        font-size: 28px;
+        margin: 8px 0px;
+        line-height: normal;
+    }
+
+    .thm-heading p {
+        font-size: 14px;
+        line-height: normal;
+    }
+    .partner-sec {
+        padding: 18px 0px;
+    }
+    .header-toggle {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .thm-but {
+        width: auto;
+    }
+
+    .service-con {
+        justify-content: start !important;
+        margin: 10px 0px;
+    }
+
+    .service-con h2 {
+        font-size: 18px;
+        margin-left: 0px;
+    }
+
+    .service-sec {
+        border: 2px solid #fff;
+        border-radius: 15px;
+        padding: 20px 30px;
+    }
+   .service-con img{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+   }
+   .partner-img img {
+    max-height: 50px;
+}
+
+.celebrities-con {
+    border-radius: 15px;
+    padding: 8px 12px;
+    height: auto; 
+    display: inline-block;
+    margin: 10px 0px;
+}
+
+.celebrities-con video {
+    border-radius: 15px;
+}
+.celebrities-heading {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.celebrities-heading p {
+    font-size: 14px;
+    line-height: normal;
+}
+
+
+.user-wrapper {
+    margin-top: 20px;
+}
+
+}
+
+@media screen and (max-width: 767px){
+    .logo-sec img {
+        max-width: 190px;
+    }
+
+    .login-account .form-control {
+        border-radius: 7px;
+    }
+
+
+    .login-account .login-form {
+        font-size: 24px;
+    }
+
+    .sport-name h6 {
+        font-size: 16px;
+        margin-left: 10px;
+    }
+        
+    .thm-heading h3 {
+        font-size: 22px;
+        margin: 6px 0px;
+        line-height: normal;
+    }
+
+    .service-wrapper {
+        margin-top: 30px;
+    }
+    
+    .service-con h2 {
+        font-size: 16px;
+    }
+
+    .service-sec {
+        border-radius: 10px;
+        padding: 15px 20px;
+    }
+
+    
+    .thm-heading p br{
+        display: none;
+    }
+    .winner-sec {
+        margin-top: 10px;
+    }
+   
+    .sport-con {
+        padding: 4px;
+        border-radius: 10px;
+    }
+    .footer-logo {
+        max-width: 170px;
+    }
+}
+
+@media screen and (max-width: 575px){
+    .thm-heading h3 {
+        font-size: 20px;
+        margin: 6px 0px;
+    }
+
+    .service-take-sec {
+        margin-top: 20px;
+    }
+
+    .live-casino-list ul li img {
+        border-radius: 8px;
+        width: 140px;
+    }
+
+    .live-casino-list ul li {
+        list-style: none;
+        margin: 5px 5px;
+        border-radius: 8px;
+    }
+    
+    .sport-img {
+        width: 70px;
+        height: 70px;
+    }
+    
+    .sport-name h6 {
+        font-size: 14px;
+        margin-left: 6px;
+    }
+        
+
+    .celebrities-wrapper {
+        margin-top: 30px;
+    }
+    .partner-img {
+        margin-right: 12px;
+    }
+
+    .celebrities-heading p {
+        font-size: 14px;
+        line-height: normal;
+    }
+
+    .celebrities-sec {
+        margin-top: 20px;
+    }
+    .service-wrapper {
+        margin-top: 20px;
+    }
+
+    .thm-but {
+        padding: 5px 14px;
+    }
+
+    .celebrities-heading h5 {
+        font-size: 16px;
+        line-height:normal;
+    }
+
+    .partner-img img {
+        max-height: 40px;
+    }
+
+    .celebrities-con {
+        border-radius: 10px;
+        padding: 8px ;
+    }
+
+    .celebrities-con video {
+        border-radius: 10px;
+    }
+
+    .celebrities-heading {
+        margin-top: 8px;
+        margin-left: 8px;
+    }
+
+    .apk-con p::before {
+        content: '';
+        display: none;
+    }
+
+    
+    .apk-con p::after {
+        content: '';
+        display: none;
+    }
+    .forget-login {
+        padding: 20px 15px;
+    }
+   
+}
+
+@media screen and (max-width: 479px){
+
+    .form-con {
+        margin-bottom: 10px;
+    }
+
+    
+    .whatsapp-con p {
+        font-size: 14px;
+    }
+
+    .whatsapp-con {
+        padding: 10px 16px 10px 16px;
+        margin-left: -48px;
+    }
+
+    .whatapp-icon img {
+        width: 70%;
+    }
+
+
+    .login-account .form-control {
+        font-size: 12px;
+        border-radius: 6px;
+        height: 40px;
+    }
+    .number-var .form-select {
+        padding: 6px  !important;
+        background-position: right !important;
+    }
+    
+
+    .apk-but img {
+        width: 28px;
+    }
+    .mak-gin {
+        margin-bottom: 10px;
+    }
+
+    .footer-wrapper {
+        margin-top: 20px;
+        padding: 20px 0px;
+    }
+
+    .login-account .login-form {
+        font-size: 20px;
+    }
+
+
+    .header-menu-sec {
+        padding: 8px 15px;
+        border-radius: 8px;
+    }
+
+    .sport-img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .download-sec img{
+        width: 150px;
+    }
+
+
+    .copy-right{
+        padding: 10px 0px;
+    }
+    .copy-right p{
+       font-size: 12px;
+    }
+
+    
+    .footer-list h3 {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+
+    .footer-list li a {
+        font-size: 12px;
+    }
+    .footer-list li {
+        list-style: none;
+        margin: 8px 0px;
+    }
+
+    .social-icons ul li {
+        width: 32px;
+        height: 32px;
+        padding: 10px;
+    }
+
+    .footer-con .thm-heading p {
+        font-size: 12px;
+        line-height: normal;
+        margin: 8px 0px;
+    }
+
+    .live-casino-list ul {
+        margin-top: 9px;
+    }
+
+    .sports-sec {
+        margin: 20px 0px;
+    }
+
+    .sport-img img {
+        border-radius: 8px;
+    }
+    .celebrities-heading h5 {
+        font-size: 14px;
+        line-height:normal;
+    }
+
+    .partner-wrapper {
+        margin-top: 20px;
+    }
+
+    .winner-sec {
+        margin-top: 0px;
+    }
+
+    .celebrities-heading p {
+        font-size: 12px;
+        line-height: normal;
+    }
+    .celebrities-sec {
+        margin-top: 10px;
+    }
+
+    .winner-details {
+        margin: 0px 0px;
+    }
+
+    .thm-heading h3 {
+        font-size: 18px;
+        margin: 6px 0px;
+    }
+    .thm-heading p {
+        font-size: 12px;
+        margin: 6px 0px;
+    }
+    
+    .service-wrapper {
+        margin-top: 15px;
+    }
+
+    .service-sec {
+        padding: 5px 10px;
+    }
+    .service-sec {
+        border-radius: 8px;
+        padding: 10px 15px;
+    }
+
+    .logo-sec img {
+        max-width: 150px;
+    }
+
+    .navbar-toggler-icon {
+        background-size: 26px;
+    }
+    
+    .service-con h2 {
+        font-size: 14px;
+    }
+    .navbar-nav li a {
+        font-size: 12px;
+        padding: 6px 0px;
+    }
+
+    .service-con img{
+        width: 24px;
+        height: 24px;
+        margin-right: 6px;
+       }
+
+       .user-wrapper {
+        margin-top: 10px;
+    }
+
+    .logo-sec img {
+        max-width: 120px;
+    }
+
+    .header-toggle-but {
+        padding: 5px;
+    }
+
+    .header-menu-sec {
+        top: 60px;
+    }
+
+    
+}
+
+@media screen and (max-width: 390px){
+    .service-con h2 {
+        font-size: 12px;
+    }
+
+    .header-wrapper .thm-bor-but {
+        margin-right: 3px;
+    }
+    .header-wrapper .thm-but {
+        padding: 6px 10px;
+        font-size: 12px;
+        width: auto;
+    }
+
+    .logo-sec img {
+        max-width: 100px;
+    }
+
+    .whatsapp-con p {
+        font-size: 12px;
+    }
+
+    .whatsapp-con {
+        padding: 8px 14px 8px 14px;
+        margin-left: -53px;
+    }
+    
+    .whatapp-icon img {
+        width: 62%;
+    }
+    .navbar-toggler-icon {
+        background-size: 24px;
+    }
+}
